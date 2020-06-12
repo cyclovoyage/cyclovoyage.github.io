@@ -9,7 +9,7 @@ image: cyclo_allaman.jpg
 
 Salut!
 
-On part en voyage à vélo quatre mois. Après de multiple réflexions, je me suis finalement décidée à écrire un blog pour écrire sur notre voyage. J’avais peur de vous donner trop envie de partir, mais en fait je pense que c’est un bon moyen de donner de nos nouvelles pour ceux que ça intéresse.
+On part en voyage à vélo quatre mois. Après de multiple réflexions, je me suis finalement décidée à écrire un blog pour écrire sur notre voyage. J’avais peur de vous donner trop envie de partir, mais en fait je pense que c’est un bon moyen de donner de nos nouvelles! 
 
 Bonne lecture!
 
