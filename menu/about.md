@@ -17,8 +17,3 @@ Bonne lecture!
 
 Crédits: Ce blog est créé à partir de ce  : <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">template</a> Jekyll de LeNPaul.
 
-
-
-<img src="/cyclovoyage/assets/img/cyclo_allaman.jpg"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
