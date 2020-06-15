@@ -15,6 +15,4 @@ On aimerait bien arriver en Turquie, mais pour l’instant, il y un virus dans l
 Avant tout, On veux profiter de ce voyage pour prendre le temps, le temps d’observer et de rêver. 
 
 
-<img src="/assets/img/photo_meca.jpg"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+
