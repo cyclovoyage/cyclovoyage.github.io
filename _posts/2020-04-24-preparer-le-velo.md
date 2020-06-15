@@ -16,4 +16,18 @@ Ayant acheté nos vélos d'occasions, il fallait les régler pour qu'ils soient 
 
 Premier défi: le réglage de la taille. Pour un vélo droit, on choisit un cadre à peu près de la bonne taille, et on règle la selle. Pour raccourcir un vélo couché, on coupe la baume, la pièce à l'avant du vélo où se trouve le pédalier, on la glisse plus dans le cadre et on raccourcit la chaîne. Un de nos deux vendeurs de vélos, Pipo, nous a gracieusement prêté son expertise et son atelier pour cette opération chirurgicale.
 
-Le défi suivant, s'était de trouver le guidon adapté. En vélo couché t'as le choix: dessus, dessous, en avant en arrière. Qui sait ce qu'ils ont inventé. Et on a eu la chance d'avoir trois types différents de guidons sur deux vélos achetés d'occasions. 
+Le défi suivant, s'était de trouver le guidon adapté. En vélo couché t'as le choix: dessus, dessous, en avant en arrière. Qui sait ce qu'ils ont inventé. Et on a eu la chance d'avoir trois types différents de guidons sur deux vélos achetés d'occasions. On avait le choix entre dessous, "dessus contre la poitrine" et "dessus en avant"
+
+PHOTOS 3 guidons
+
+Après avoir chacun testé les 3 configurations, Voici nos conclusions:
+|type|avantages|inconvénients|
+|---|---|---|
+|dessous|champ de vue plus libre sur la route. Facile de se lever. Styléé (pour Didier)|Le plus inhabituel des 3 à prendres en main. On peut pas tenir le guidon lorsqu'on le pousse en marchant.|
+|dessus contre la poitrine|-|Cougné coincé, il faut faire de la gymnastique pour se lever.|
+|dessus en avant|Facile à prendre en main. Position des bras reposée. Pas coincé comme celui contre la poitrine. Possible de se tirer sur le guidon pour se lever ou se redresser en roulant pour avoir un meilleur champ de vision. Parfait pour poser un support à carte/smartphone.||
+
+Bref, on a eu un grand favori, mais on n'en avait qu'un seul exemplaire. C'est parti pour la brico. Ce coup-ci on est allé chez axé-cycles, un atelier de vélo participatif tenu par des anciens d'UniPoly. Aide par Maieul de la chirurgie esthétique
+
+nous sommes unanimes que la version "dessus en avant" était la plus agréable:
+
