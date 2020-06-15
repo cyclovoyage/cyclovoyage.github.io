@@ -15,5 +15,10 @@ J'avais aussi envie d'écrire quelques mots, alors je profite de ce blog. Je me 
 
 Bonne lecture!
 
+
+*La vie, c’est comme une bicyclette, il faut avancer pour ne pas perdre l’équilibre.*
+
+
+
 Crédits: Ce blog est créé à partir de ce  : <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">template</a> Jekyll de LeNPaul.
 
