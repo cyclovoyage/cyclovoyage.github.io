@@ -12,7 +12,7 @@ Salut!
 On part en voyage à vélo quatre mois. Après de multiple réflexions, je me suis finalement décidée à écrire un blog pour écrire sur notre voyage. J’avais peur de vous donner trop envie de partir, mais en fait je pense que c’est un bon moyen de donner de nos nouvelles!
  *Chloé*
 
-J'avais aussi envie d'écrire quelques mots, alors je profite de ce blog. Je me réjouis de vous partager ma perspective de gros singe. *Didier*
+Pouet pouet 🐒 *Didier*
 
 Bonne lecture!
 
