@@ -34,7 +34,8 @@ Après avoir chacun testé les 3 configurations, Voici nos conclusions:
 | 3  | Dessus en avant   | Facile à prendre en main. Position des bras reposée. Pas coincé comme celui contre la poitrine. Possible de se tirer sur le guidon pour se lever ou se redresser en roulant pour avoir un meilleur champ de vision. Parfait pour poser un support à carte/smartphone.  |   |   
 
 
-![](/assets/img/05614563-B552-464B-83CB-895E782AB3A.jpeg)
+![](/assets/img/05614563-B552-464B-83CB-895E782AB3AF.jpeg)
+
 *Guidon 3 en avant*
 
 
@@ -47,7 +48,9 @@ Après avoir chacun testé les 3 configurations, Voici nos conclusions:
 
 Bref, on a eu un grand favori, mais on n'en avait qu'un seul exemplaire. C'est parti pour la brico. Ce coup-ci on est allé chez axé-cycles, un atelier de vélo participatif tenu par des anciens d'UniPoly. Au lieu d'acheter une pièce neuve, on a récupéré et coupé la potence du guidon 2, fixé le cintre du 1, et paf, voici un guidon 3. La touche finale, c'est deux morceaux de bois enfilés de chaque côté pour avoir la bonne longueur.
 
-![](/assets/img/cyclo_repair.jpg)
+
+<img src="/assets/img/cyclo_repair.jpg" width="200px">
+
 *Le découpage du tube  *
 
 
