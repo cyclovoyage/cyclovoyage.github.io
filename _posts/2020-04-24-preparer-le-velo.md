@@ -19,7 +19,7 @@ Premier défi: le réglage de la taille. Pour un vélo droit, on choisit un cadr
 
 *Le découpage du tube*
 
-<img src="/assets/img/8C5EDEC2-3A1B-49E0-BABD-694A18F57201.jpeg" width="200px" style="transform: rotate(90deg);">
+<img src="/assets/img/8C5EDEC2-3A1B-49E0-BABD-694A18F57201.jpeg" width="200px" style="transform: rotate(180deg);">
 
 *Réparation de la pédale*
 
