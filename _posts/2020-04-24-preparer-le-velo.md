@@ -16,21 +16,21 @@ Premier défi: le réglage de la taille. Pour un vélo droit, on choisit un cadr
 Le défi suivant, s'était de trouver le guidon adapté. En vélo couché il y a le choix! Qui sait ce qu'ils ont inventé. Et on a eu la chance d'avoir trois types différents de guidons sur deux vélos achetés d'occasions. On avait le choix entre "dessous", "dessus contre la poitrine" et "dessus en avant"
 
 
-<img src="/assets/img/05614563-B552-464B-83CB-895E782AB3AF.jpeg" width="70%"><img src="/assets/img/8C354646-8646-4FC7-88A4-E5D92FB8CE27.jpeg" width="27%">
+<img src="/assets/img/8C354646-8646-4FC7-88A4-E5D92FB8CE27.jpeg" width="30%"><img src="/assets/img/05614563-B552-464B-83CB-895E782AB3AF.jpeg" width="67%">
 
-*Guidon 3 "Dessus en avant" et 1 "Dessous" et 2 "Dessus contre la poitrine"*
+*Guidon 1 "Dessus contre la poitrine", 2 "Dessus en avant" et 3 "Dessous"*
 
 Après avoir chacun testé les 3 configurations, Voici nos conclusions:
 
 
 
 | #  |type   | avantages  |inconvénients   |   
-|---|---|---|---|
-| 1  | Dessous   | champ de vue plus libre sur la route. Facile de se lever. Sensation agréable  | Le plus inhabituel des 3 à prendres en main. On peut pas tenir le guidon lorsqu'on le pousse en marchant. Un peu plus instable  |   
-| 2  | Dessus contre la poitrine   |  Facile à diriger | Cougné coincé, il faut faire de la gymnastique pour se lever.  |   
-| 3  | Dessus en avant   | Facile à prendre en main et stable. Position des bras reposée.  Possible de se tirer sur le guidon pour se lever ou se redresser en roulant pour avoir un meilleur champ de vision. On peut fixer un support à carte/smartphone.  | Plus encombrant  |   
+|---|---|---|---| 
+| 1  | Dessus contre la poitrine   |  Facile à diriger | Cougné coincé, il faut faire de la gymnastique pour se lever.  |   
+| 2  | Dessus en avant   | Facile à prendre en main et stable. Position des bras reposée.  Possible de se tirer sur le guidon pour se lever ou se redresser en roulant pour avoir un meilleur champ de vision. On peut fixer un support à carte/smartphone.  | Plus encombrant  |   
+| 3  | Dessous   | champ de vue plus libre sur la route. Facile de se lever. Sensation agréable  | Le plus inhabituel des 3 à prendres en main. On peut pas tenir le guidon lorsqu'on le pousse en marchant. Un peu plus instable  |  
 
-Bref, on a eu un grand favori, mais on n'en avait qu'un seul exemplaire. C'est parti pour la brico. Ce coup-ci on est allé chez AxéCycle, un atelier de vélo participatif tenu par des anciens d'UniPoly. Au lieu d'acheter une pièce neuve, on a récupéré et coupé la potence du guidon 2, fixé le cintre du 1, et paf, voici un guidon 3. La touche finale, c'est deux morceaux de bois enfilés de chaque côté pour avoir la bonne longueur.
+Bref, on a un grand favori, le 2, mais on n'en avait qu'un seul exemplaire. C'est parti pour la brico. Ce coup-ci on est allé chez AxéCycle, un atelier de vélo participatif tenu par des anciens d'UniPoly. Au lieu d'acheter une pièce neuve, on a récupéré et coupé la potence du guidon 1, fixé le cintre du 3, et paf, voici un guidon 2. La touche finale, c'est deux morceaux de bois enfilés de chaque côté pour avoir la bonne longueur.
 
 
 <img src="/assets/img/cyclo_repair.jpg" width="400px" style="transform: rotate(90deg) scale(0.75);">
@@ -42,7 +42,6 @@ Lors de nos tournées de préparations, quelques pièces ont cassé d'usure. Le 
 <img src="/assets/img/8C5EDEC2-3A1B-49E0-BABD-694A18F57201.jpeg" width="300px">
 
 *Réparation de la pédale*
-
 
 
 
