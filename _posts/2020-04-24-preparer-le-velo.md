@@ -25,7 +25,7 @@ Le défi suivant, s'était de trouver le guidon adapté. En vélo couché il y a
 
 
 <img src="/assets/img/05614563-B552-464B-83CB-895E782AB3AF.jpeg" width="60%">
-<img src="/assets/img/8C354646-8646-4FC7-88A4-E5D92FB8CE27.jpeg" width="30%">
+<img src="/assets/img/8C354646-8646-4FC7-88A4-E5D92FB8CE27.jpeg" width="30%" style="transform: rotate(90deg);">
 
 *Guidon 3 "Dessus en avant" et 1 "Dessous" et 2 "Dessus contre la poitrine"*
 
