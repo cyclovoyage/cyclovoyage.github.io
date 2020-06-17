@@ -8,9 +8,9 @@ image: cyclo_troinex.jpg
 ---
 On avait besoin d'acheter des vélos de voyage. On a d'abord réfléchi à partir en tandem, parce que c'est romantique. Après quelque discussions avec d’autres voyageurs, on s'est rendu compte que ça voulait dire être à une distance moyenne de moins de 2 mètres l'un de l'autre pour 4 mois: on s'aime bien mais quand même... On préfère avoir la possibilité d’aller chacun où l'on veut, et si c'est dans la même direction, alors tant mieux !  
 
-Dans le Manuel du voyage à vélo, le paragraphe sur les vélos couchés m’avait déjà avant rendu curieuse. Il commence par *“Le vélo couché est au vélo droit ce que la chaise longue est au tabouret”*.
-
 On est allés à RandoBike, un super magasin de vélo de voyage à Vevey tenu par des connaissances. Après en avoir testé plusieurs, on s'est décidé pour des vélos de voyage droits, simples et fonctionnels. Pour ne pas acheter sur un coup de tête, on a pris quelques jours pour réfléchir. La semaine suivante, le COVID-19 avait bloqué la chaîne de production. Il n’était donc plus possible de commander. La date de reprise dépendait directement de la propagation du virus...
+
+Dans le Manuel du voyage à vélo, le paragraphe sur les vélos couchés m’avait déjà rendu curieuse avant ce *petit* imprévu. Il commence par *“Le vélo couché est au vélo droit ce que la chaise longue est au tabouret”*.
 
 La solution pour être dans les temps pour Juin était d’acheter d’occasion. J'ai alors repensé au vélo couché et ai trouvé sur anibis 2 vélos du modèle décrit comme idéal pour un voyage de plusieurs mois: le Speedmachine de HP Velotechnik. Un était à Bremblens, à 5 km de Morges. On n’a pas attendu pour aller l’essayer et se décider. Après un voyage à Payerne pour le deuxième, nous avions nos montures!
 
