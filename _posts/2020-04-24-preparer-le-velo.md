@@ -16,7 +16,7 @@ Premier défi: le réglage de la taille. Pour un vélo droit, on choisit un cadr
 Le défi suivant, s'était de trouver le guidon adapté. En vélo couché il y a le choix! Qui sait ce qu'ils ont inventé. Et on a eu la chance d'avoir trois types différents de guidons sur deux vélos achetés d'occasions. On avait le choix entre "dessous", "dessus contre la poitrine" et "dessus en avant"
 
 
-<img src="/assets/img/05614563-B552-464B-83CB-895E782AB3AF.jpeg" width="60%"><img src="/assets/img/8C354646-8646-4FC7-88A4-E5D92FB8CE27.jpeg" width="35%" style="transform: rotate(90deg);">
+<img src="/assets/img/05614563-B552-464B-83CB-895E782AB3AF.jpeg" width="60%"><img src="/assets/img/8C354646-8646-4FC7-88A4-E5D92FB8CE27.jpeg" width="35%" style="-webkit-transform: rotate(90deg);-moz-transform: rotate(90deg);-o-transform: rotate(90deg);-ms-transform: rotate(90deg);transform: rotate(90deg);">
 
 *Guidon 3 "Dessus en avant" et 1 "Dessous" et 2 "Dessus contre la poitrine"*
 
@@ -33,13 +33,13 @@ Après avoir chacun testé les 3 configurations, Voici nos conclusions:
 Bref, on a eu un grand favori, mais on n'en avait qu'un seul exemplaire. C'est parti pour la brico. Ce coup-ci on est allé chez AxéCycle, un atelier de vélo participatif tenu par des anciens d'UniPoly. Au lieu d'acheter une pièce neuve, on a récupéré et coupé la potence du guidon 2, fixé le cintre du 1, et paf, voici un guidon 3. La touche finale, c'est deux morceaux de bois enfilés de chaque côté pour avoir la bonne longueur.
 
 
-<img src="/assets/img/cyclo_repair.jpg" width="400px" style="transform: rotate(90deg);">
+<img src="/assets/img/cyclo_repair.jpg" width="400px" style="-webkit-transform: rotate(90deg);-moz-transform: rotate(90deg);-o-transform: rotate(90deg);-ms-transform: rotate(90deg);transform: rotate(90deg);">
 
 *Le découpage de la potence*
 
 Lors de nos tournées de préparations, quelques pièces ont cassé d'usure. Le roulement à bille inférieur de la fourche de guidon de Chloé s'est ouvert. Une de ses pédale était mal alignée et a lâché. Le point d'attache du dérailleur de Didier a sauté. À chaque fois, nos mécanos préférés à AxéCycle avaient les pièces de seconde main qu'il fallait dans leur caisses d'Ali Baba et ont pu nous assister pour les réparations. En plus de tout ça, on a changé la chaîne, trop vieille, et le tambour du vélo de Chloé: ça fait 3 mètres de chaînes à renfiler dans les tubes de guidage.
 
-<img src="/assets/img/8C5EDEC2-3A1B-49E0-BABD-694A18F57201.jpeg" width="400px" style="transform: rotate(90deg);">
+<img src="/assets/img/8C5EDEC2-3A1B-49E0-BABD-694A18F57201.jpeg" width="400px" style="-webkit-transform: rotate(90deg);-moz-transform: rotate(90deg);-o-transform: rotate(90deg);-ms-transform: rotate(90deg);transform: rotate(90deg);">
 
 *Réparation de la pédale*
 
