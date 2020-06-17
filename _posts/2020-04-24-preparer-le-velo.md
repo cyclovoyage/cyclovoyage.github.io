@@ -24,8 +24,7 @@ Premier défi: le réglage de la taille. Pour un vélo droit, on choisit un cadr
 Le défi suivant, s'était de trouver le guidon adapté. En vélo couché il y a le choix! Qui sait ce qu'ils ont inventé. Et on a eu la chance d'avoir trois types différents de guidons sur deux vélos achetés d'occasions. On avait le choix entre dessous, "dessus contre la poitrine" et "dessus en avant"
 
 
-<img src="/assets/img/05614563-B552-464B-83CB-895E782AB3AF.jpeg" width="60%">
-<img src="/assets/img/8C354646-8646-4FC7-88A4-E5D92FB8CE27.jpeg" width="30%" style="transform: rotate(90deg);">
+<img src="/assets/img/05614563-B552-464B-83CB-895E782AB3AF.jpeg" width="60%"><img src="/assets/img/8C354646-8646-4FC7-88A4-E5D92FB8CE27.jpeg" width="35%" style="transform: rotate(90deg);">
 
 *Guidon 3 "Dessus en avant" et 1 "Dessous" et 2 "Dessus contre la poitrine"*
 
