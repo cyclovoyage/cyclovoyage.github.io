@@ -33,7 +33,7 @@ Après avoir chacun testé les 3 configurations, Voici nos conclusions:
 Bref, on a eu un grand favori, mais on n'en avait qu'un seul exemplaire. C'est parti pour la brico. Ce coup-ci on est allé chez AxéCycle, un atelier de vélo participatif tenu par des anciens d'UniPoly. Au lieu d'acheter une pièce neuve, on a récupéré et coupé la potence du guidon 2, fixé le cintre du 1, et paf, voici un guidon 3. La touche finale, c'est deux morceaux de bois enfilés de chaque côté pour avoir la bonne longueur.
 
 
-<img src="/assets/img/cyclo_repair.jpg" width="400px" style="-webkit-transform: rotate(90deg);-moz-transform: rotate(90deg);-o-transform: rotate(90deg);-ms-transform: rotate(90deg);transform: rotate(90deg);">
+<img src="/assets/img/cyclo_repair.jpg" width="400px" style="transform: rotate(90deg) scale(0.75);">
 
 *Le découpage de la potence*
 
