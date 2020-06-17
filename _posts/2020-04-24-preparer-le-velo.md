@@ -19,7 +19,7 @@ Premier défi: le réglage de la taille. Pour un vélo droit, on choisit un cadr
 
 *Le découpage du tube*
 
-<img src="/assets/img/8C5EDEC2-3A1B-49E0-BABD-694A18F57201.jpeg" width="200px" style="transform:rotate(0deg)">
+<img src="/assets/img/8C5EDEC2-3A1B-49E0-BABD-694A18F57201.jpeg" width="200px" style="transform: rotate(90deg);">
 
 *Réparation de la pédale*
 
@@ -51,9 +51,9 @@ Après avoir chacun testé les 3 configurations, Voici nos conclusions:
 Bref, on a eu un grand favori, mais on n'en avait qu'un seul exemplaire. C'est parti pour la brico. Ce coup-ci on est allé chez axé-cycles, un atelier de vélo participatif tenu par des anciens d'UniPoly. Au lieu d'acheter une pièce neuve, on a récupéré et coupé la potence du guidon 2, fixé le cintre du 1, et paf, voici un guidon 3. La touche finale, c'est deux morceaux de bois enfilés de chaque côté pour avoir la bonne longueur.
 
 
+Lors de nos tournées de préparations, quelques pièces ont cassé d'usure. Le roulement à bille inférieur de la fourche de guidon de Chloé s'est ouvert. Une de ses pédale était mal alignée et a lâché. Le point d'attache du dérailleur de Didier a sauté. À chaque fois, nos mécanos préférés à AxéCycle avaient les pièces de seconde main qu'il fallait dans leur caisses d'Ali Baba et ont pu nous assister pour les réparations. 
 
 
-Lors de nos tournées de préparations, quelques pièces ont cassé d'usure. Le roulement à bille inférieur de la fourche de guidon de Chloé s'est ouvert. Une de ses pédale était mal alignée et a lâché. Le point d'attache du dérailleur de Didier a sauté. On est passé chez nos mécanos préférés à AxéCycle et ils avaient les pièces de seconde main miraculeuses dans leur caisses d'Ali Baba et ont pu nous assister pour les réparations.
 
 
 
