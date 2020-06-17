@@ -20,4 +20,4 @@ Voilà les avantages et inconvénient des vélos couchés, on verra, après quel
 | C'est différent et rigolo!  | Impossible de passer inapercu  |
 | Le confort: c’est génial. On a l'impression d'être sur une chaise longue quand il fait beau et dans son bain quand il pleut.  | Ce n'est pas pratique à stocker et transporter  |
 |Vue: le paysage est panoramique, on voit beaucoup mieux les oiseaux et les fleurs que sur un vélo standard.   | On est soi-disant moins visible pour les voitures. Ca fait peur à nos parents.   |
-| L'aérodynamisme: la différence avec la bise est bluffante.  |C'est plus lent à la montée (mais il paraît que c'est une question d'entraînement: c'est pas les mêmes muscles que les vélos droits.    |
+| L'aérodynamisme: la différence contre la bise est bluffante.  |C'est plus lent à la montée (mais il paraît que c'est une question d'entraînement: c'est pas les mêmes muscles que les vélos droits.    |
