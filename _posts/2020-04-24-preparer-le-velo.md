@@ -7,17 +7,13 @@ tags: [documentation,sample]
 image: photo_meca.jpg
 ---
 
-  - Réparer le roulement à bille.
-  - pédale
-  - changer la chaine et le derailleur
-
 Ayant acheté nos vélos d'occasions, il fallait les régler pour qu'ils soient confortable et rouler avec pour que tout ce qui pourrait casser casse avant le grand départ.
 
 Premier défi: le réglage de la taille. Pour un vélo droit, on choisit un cadre à peu près de la bonne taille, et on règle la selle. Pour raccourcir un vélo couché, on coupe la baume, la pièce à l'avant du vélo où se trouve le pédalier, on la glisse plus dans le cadre et on raccourcit la chaîne. Un de nos deux vendeurs de vélos, Pipo, nous a gentiment prêté son expertise et son atelier pour cette opération chirurgicale.
 
 
 
-Le défi suivant, s'était de trouver le guidon adapté. En vélo couché il y a le choix! Qui sait ce qu'ils ont inventé. Et on a eu la chance d'avoir trois types différents de guidons sur deux vélos achetés d'occasions. On avait le choix entre dessous, "dessus contre la poitrine" et "dessus en avant"
+Le défi suivant, s'était de trouver le guidon adapté. En vélo couché il y a le choix! Qui sait ce qu'ils ont inventé. Et on a eu la chance d'avoir trois types différents de guidons sur deux vélos achetés d'occasions. On avait le choix entre "dessous", "dessus contre la poitrine" et "dessus en avant"
 
 
 <img src="/assets/img/05614563-B552-464B-83CB-895E782AB3AF.jpeg" width="60%"><img src="/assets/img/8C354646-8646-4FC7-88A4-E5D92FB8CE27.jpeg" width="35%" style="transform: rotate(90deg);">
