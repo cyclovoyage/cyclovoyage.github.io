@@ -33,11 +33,13 @@ Après avoir chacun testé les 3 configurations, Voici nos conclusions:
 | 2  | Dessus contre la poitrine   |  - | Cougné coincé, il faut faire de la gymnastique pour se lever.  |   
 | 3  | Dessus en avant   | Facile à prendre en main. Position des bras reposée. Pas coincé comme celui contre la poitrine. Possible de se tirer sur le guidon pour se lever ou se redresser en roulant pour avoir un meilleur champ de vision. Parfait pour poser un support à carte/smartphone.  |   |   
 
+
 ![](/assets/img/05614563-B552-464B-83CB-895E782AB3A.jpeg)
 *Guidon 3 en avant*
 
 
 <img src="/assets/img/8C354646-8646-4FC7-88A4-E5D92FB8CE27.jpeg" width="200px">
+
 *Guidon 2 Dessus contre la poitrine*
 
 
