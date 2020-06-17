@@ -7,9 +7,8 @@ tags: [documentation,sample]
 image: cyclo_repair.jpg
 ---
 
-  - Adapter la taille: chaine, gaine et tube en alu.
-  - Changer le guidon
   - Réparer le roulement à bille.
+  - pédale
   - changer la chaine et le derailleur
 
 Ayant acheté nos vélos d'occasions, il fallait les régler pour qu'ils soient parfaitement confortable et rouler avec pour que tout ce qui pourrait casser casse avant le grand départ.
@@ -22,9 +21,9 @@ PHOTOS 3 guidons
 
 Après avoir chacun testé les 3 configurations, Voici nos conclusions:
 | # | type | avantages | inconvénients |
-|---|---|---|---|---|
-| 1 | dessous | champ de vue plus libre sur la route. Facile de se lever. Styléé (pour Didier)|Le plus inhabituel des 3 à prendres en main. On peut pas tenir le guidon lorsqu'on le pousse en marchant. |
-| 2 | dessus contre la poitrine | - | Cougné coincé, il faut faire de la gymnastique pour se lever.|
+|---|---|---|---|
+| 1 | dessous | champ de vue plus libre sur la route. Facile de se lever. Styléé (pour Didier) | Le plus inhabituel des 3 à prendres en main. On peut pas tenir le guidon lorsqu'on le pousse en marchant. |
+| 2 | dessus contre la poitrine | - | Cougné coincé, il faut faire de la gymnastique pour se lever. |
 | 3 | dessus en avant | Facile à prendre en main. Position des bras reposée. Pas coincé comme celui contre la poitrine. Possible de se tirer sur le guidon pour se lever ou se redresser en roulant pour avoir un meilleur champ de vision. Parfait pour poser un support à carte/smartphone. | - |
 
 Bref, on a eu un grand favori, mais on n'en avait qu'un seul exemplaire. C'est parti pour la brico. Ce coup-ci on est allé chez axé-cycles, un atelier de vélo participatif tenu par des anciens d'UniPoly. Au lieu d'acheter une pièce neuve, on a récupéré et coupé la potence du guidon 2, fixé le cintre du 1, et paf, voici un guidon 3. La touche finale, c'est deux morceaux de bois enfilés de chaque côté pour avoir la bonne longueur.
