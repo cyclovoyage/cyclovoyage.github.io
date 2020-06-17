@@ -51,6 +51,7 @@ Bref, on a eu un grand favori, mais on n'en avait qu'un seul exemplaire. C'est p
 
 
 
+Lors de nos tournées de préparations, quelques pièces ont cassé d'usure. Le roulement à bille inférieur de la fourche de guidon de Chloé s'est ouvert. Une de ses pédale était mal alignée et a lâché. Le point d'attache du dérailleur de Didier a sauté. On est passé chez nos mécanos préférés à AxéCycle et ils avaient les pièces de seconde main miraculeuses dans leur caisses d'Ali Baba et ont pu nous assister pour les réparations.
 
 
 
