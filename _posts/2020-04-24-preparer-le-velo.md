@@ -37,8 +37,8 @@ Après avoir chacun testé les 3 configurations, Voici nos conclusions:
 *Guidon 3 en avant*
 
 
-<img src="/assets/img/8C354646-8646-4FC7-88A4-E5D92FB8CE27.jpeg" width="400px">
-*Guidon 2 Dessus contre la poitrine  *
+<img src="/assets/img/8C354646-8646-4FC7-88A4-E5D92FB8CE27.jpeg" width="200px">
+*Guidon 2 Dessus contre la poitrine*
 
 
 
