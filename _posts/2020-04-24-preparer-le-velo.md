@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Préparation du vélo couché et première réparation:"
+title: "Préparation du vélo couché et première réparation"
 author: "Chloé"
 categories: journal
 tags: [documentation,sample]
