@@ -39,12 +39,12 @@ Après avoir chacun testé les 3 configurations, Voici nos conclusions:
 
 ![](/assets/img/05614563-B552-464B-83CB-895E782AB3AF.jpeg)
 
-*Guidon 3 en avant*
+*Guidon 3 "Dessus en avant" et 1 "Dessous"*
 
 
 <img src="/assets/img/8C354646-8646-4FC7-88A4-E5D92FB8CE27.jpeg" width="200px">
 
-*Guidon 2 Dessus contre la poitrine*
+*Guidon 2 "Dessus contre la poitrine"*
 
 Bref, on a eu un grand favori, mais on n'en avait qu'un seul exemplaire. C'est parti pour la brico. Ce coup-ci on est allé chez axé-cycles, un atelier de vélo participatif tenu par des anciens d'UniPoly. Au lieu d'acheter une pièce neuve, on a récupéré et coupé la potence du guidon 2, fixé le cintre du 1, et paf, voici un guidon 3. La touche finale, c'est deux morceaux de bois enfilés de chaque côté pour avoir la bonne longueur.
 
