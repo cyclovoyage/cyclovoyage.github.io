@@ -21,7 +21,7 @@ Le défi suivant, s'était de trouver le guidon adapté. En vélo couché t'as l
 PHOTOS 3 guidons
 
 Après avoir chacun testé les 3 configurations, Voici nos conclusions:
-|  | type | avantages | inconvénients |
+| # | type | avantages | inconvénients |
 |---|---|---|---|---|
 | 1 | dessous | champ de vue plus libre sur la route. Facile de se lever. Styléé (pour Didier)|Le plus inhabituel des 3 à prendres en main. On peut pas tenir le guidon lorsqu'on le pousse en marchant. |
 | 2 | dessus contre la poitrine | - | Cougné coincé, il faut faire de la gymnastique pour se lever.|
