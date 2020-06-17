@@ -16,9 +16,11 @@ Ayant acheté nos vélos d'occasions, il fallait les régler pour qu'ils soient 
 Premier défi: le réglage de la taille. Pour un vélo droit, on choisit un cadre à peu près de la bonne taille, et on règle la selle. Pour raccourcir un vélo couché, on coupe la baume, la pièce à l'avant du vélo où se trouve le pédalier, on la glisse plus dans le cadre et on raccourcit la chaîne. Un de nos deux vendeurs de vélos, Pipo, nous a gentiment prêté son expertise et son atelier pour cette opération chirurgicale.
 
 <img src="/assets/img/cyclo_repair.jpg" width="200px">
+
 *Le découpage du tube*
 
-<img src="/assets/img/8C5EDEC2-3A1B-49E0-BABD-694A18F57201.jpeg" width="200px" style="transform:rotate(90deg)">
+<img src="/assets/img/8C5EDEC2-3A1B-49E0-BABD-694A18F57201.jpeg" width="200px" style="transform:rotate(0deg)">
+
 *Réparation de la pédale*
 
 
