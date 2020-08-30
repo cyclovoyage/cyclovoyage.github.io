@@ -9,9 +9,9 @@ image: 5B2DE111-8FFC-4C2F-A191-EB19E4944AE5.jpeg
 
 Après un interlude de trois semaines les tribulations de nos patibulaires personnages reprennent sur les pas de Léonard de Vinci, objectif: la Loire et la Bretagne. 
 
-Quizz: 
-1. Saurez-vous identifier les 2 protagonistes historiques liés à Marignan?
-2. ...ainsi qu’un anachronisme historique?
+Quizz: Saurez-vous identifier...
+1. les 2 protagonistes historiques liés à Marignan?
+2. ainsi qu’un anachronisme historique?
 
 
 On quitte Genève. Nous démarrons tranquillement en suivant le Rhône. Après une heure de vélo, nous voyons notre premier château: le fort l’écluse!
